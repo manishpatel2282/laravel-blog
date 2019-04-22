@@ -1,0 +1,27 @@
+Apr 22, 2019 9:36:41 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: slave-1
+Apr 22, 2019 9:36:41 PM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+Apr 22, 2019 9:36:41 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3.29
+Apr 22, 2019 9:36:42 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\manish\Desktop\code-repo\laravel-blog\remoting as a remoting work directory
+Apr 22, 2019 9:36:44 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+Apr 22, 2019 9:36:45 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Apr 22, 2019 9:36:45 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    49678
+  Identity:      2a:fc:f8:81:d7:0a:82:d9:d0:39:36:1b:4b:4b:08:88
+Apr 22, 2019 9:36:45 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Apr 22, 2019 9:36:45 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:49678
+Apr 22, 2019 9:36:45 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Apr 22, 2019 9:36:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 2a:fc:f8:81:d7:0a:82:d9:d0:39:36:1b:4b:4b:08:88
+Apr 22, 2019 9:36:57 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
